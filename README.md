@@ -1,4 +1,3 @@
-# Assignment 2 Django project SE-2004 Dias Karibaev,Asset Kanatov,Yeskendir Iskakov
 
 ## Installation
 ```bash
